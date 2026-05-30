@@ -78,7 +78,7 @@ Customer churn directly impacts revenue and growth in the telecom industry. The 
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](Customer Churn Prediction & Analysis Dashboard.jpg)
+![https://github.com/CHINleaner/Customer-Churn-Prediction-Analysis/blob/main/Customer%20Churn%20Prediction%20%26%20Analysis%20Dashboard.jpg](Customer Churn Prediction & Analysis Dashboard.jpg)
 
 ---
 
